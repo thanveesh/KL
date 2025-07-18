@@ -1,2 +1,2 @@
-# KL
-FEDF
+# FEDF
+Frontend Development Course
