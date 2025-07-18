@@ -1,2 +1,0 @@
-# FEDF
-Frontend Development Course
